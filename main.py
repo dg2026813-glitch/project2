@@ -8,3 +8,4 @@ right_leg = box(pos=vec(0.4,-1.5,0), size = vec(0.4,1,0.3), color=color.green)
 left_eye = box(pos=vec(-0.2,1.7,0.3), size = vec(0.2,0.2,0.1), color=color.black)
 right_eye = box(pos=vec(0.2,1.7,0.3), size = vec(0.2,0.2,0.1), color=color.black)
 mouth = box(pos=vec(0,1.3,0.3), size=vec(0.4,0.1,0.1), color=color.black)
+
